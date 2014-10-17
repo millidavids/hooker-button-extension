@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Hooker Button Extension",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Says 'Hooker!',",
   "icons": { "128": "red-button-th.png" },
   "browser_action": {
